@@ -1,14 +1,10 @@
-# Project Keep is a miniature painter and collectors dream!
+# Angular Material Design dashboard toggle example
 
-tbd
+This is a small Angular app with an example integration of the Angular Material design. A little example dasboard with toggling side navigation was implemented.
 
-## Toolchains
+## Usage
 
-tbd
-
-## Features
-
-tbd
+Just run `yarn build`, followed by `yarn start`. After everything has been built and served, navigate to http://localhost:4200/ and enjoy.
 
 ## Support
 
