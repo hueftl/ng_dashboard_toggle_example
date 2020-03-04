@@ -4,7 +4,7 @@ This is a small Angular app with an example integration of the Angular Material 
 
 ## Usage
 
-Just run `yarn build`, followed by `yarn start`. After everything has been built and served, navigate to http://localhost:4200/ and enjoy.
+Just run `yarn install`, followed by `yarn start`. After everything has been built and served, navigate to http://localhost:4200/ and enjoy.
 
 ## Support
 
